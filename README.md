@@ -1,4 +1,7 @@
-# work-log
+# Vue Starter (Basic)
+
++ Bootstrap 4
++ Octicons (Vue-Octicon)
 
 ## Project setup
 ```
